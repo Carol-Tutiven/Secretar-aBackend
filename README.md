@@ -1,2 +1,2 @@
-# Secretar-Backend
+# Secretaria-Backend
 SECRETARÍA GENERAL
